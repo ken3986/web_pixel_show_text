@@ -5,7 +5,7 @@ Plugin URI: https://www.webopixel.net/wordpress/631.html
 Description: テキストを表示するだけのプラグイン
 Author:
 Author URI: https://www.webopixel.net/wordpress/631.html
-Version: 0.4
+Version: 0.5
 */
 
   if (! class_exists('WebPixelShowText')) :
